@@ -2,7 +2,7 @@ Expense Tracker Web Application
 
 📌 Overview
 
-The Expense Tracker is a simple and user-friendly web application built using React and TypeScript. It helps users manage their personal finances by tracking income and expenses, categorizing transactions, and calculating total income, expenses, and net balance.
+The Expense Tracker is a simple and user-friendly web application built using HTML,CSS, JS and TypeScript. It helps users manage their personal finances by tracking income and expenses, categorizing transactions, and calculating total income, expenses, and net balance.
 
 This project is designed to strengthen front-end web development skills and demonstrate basic DOM manipulation, data persistence using Local Storage, and responsive design.
 
